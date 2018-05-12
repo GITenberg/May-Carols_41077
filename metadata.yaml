@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '2360'
     url: http://www.gutenberg.org/2009/agents/2360
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41077#May-Carols
 gutenberg_issued: '2012-10-16'
 gutenberg_type: Text
 identifiers:
